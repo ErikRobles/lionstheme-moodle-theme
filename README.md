@@ -1,0 +1,1 @@
+This is a child theme from the boost theme. This is an exercise in css overrides.
